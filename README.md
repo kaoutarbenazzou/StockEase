@@ -3,7 +3,10 @@
 This project helps managing the stock of the shop/store of my University 📦.
 
 Commands to use before running the project:
+
 Installation  --> git clone https://github.com/kaoutarbenazzou/StockEase.git
+
+Move to the project directory --> cd StockEase
 
 Composer --> composer update
 
